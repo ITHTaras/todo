@@ -1,0 +1,28 @@
+/* Login */
+
+fieldset {
+  border-color: #fff!important;
+}
+
+.login{
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.login-text{
+  color: rgb(220, 211, 211);
+  margin-top: 1.4rem!important;
+}
+
+label, input {
+  color: #fff!important;
+}
+
+form {
+  width: 70%;
+}
+
+.field-devider {
+  width: 100%;
+}
